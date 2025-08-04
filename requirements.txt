@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+folium
+streamlit-folium
+joblib
+pillow
+statsmodels
